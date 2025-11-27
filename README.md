@@ -14,4 +14,4 @@ Kotlin: The app is written entirely in Kotlin, a modern, concise, and safe progr
 Material Design: The UI components are styled using Material Design principles, providing a consistent and visually appealing user experience.
 Screenshots:
 
-![image alt]()
+![image alt](https://github.com/mohansivaraot/MAD_23012531058_PRA_5/blob/a632f2d7e625e3cbeea50c0e82736ad76ed64803/Screenshot%202025-11-27%20101002.png)
